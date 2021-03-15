@@ -1,7 +1,6 @@
 # Blog
 
-## Built By [JEAN BEDE](https://github.com/emdeechege/)
-
+## Built By [JEAN BEDE]
 ## Description
 Application that allows users to a blog and also make a contribution by adding a comments on the same blog.
 
@@ -48,7 +47,7 @@ Bloggers would like to:
 ### Cloning
 * In your terminal:
 
-        $ git clone https://github.com/emdeechege/peech/
+        $ git clone https://github.com/Jeanbede/my-blog-app
         $ cd peech
 
 ## Running the Application
