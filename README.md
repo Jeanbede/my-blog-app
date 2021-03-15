@@ -48,7 +48,7 @@ Bloggers would like to:
 * In your terminal:
 
         $ git clone https://github.com/Jeanbede/my-blog-app
-        $ cd peech
+        $ cd blog
 
 ## Running the Application
 * Creating the virtual environment
